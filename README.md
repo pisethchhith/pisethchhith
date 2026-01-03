@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pisethchhith 
+- 👋 Hi, call me Eric
 
 <!---
 pisethchhith/pisethchhith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

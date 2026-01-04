@@ -17,9 +17,7 @@ Currently exploring Python, C, C++, AI, Java, HTML\CSS\Javascript, Frameworks</p
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pisethchhith&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pisethchhith&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pisethchhith&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Piseth GitHub stats](https://github-readme-stats.vercel.app/api?username=pisethchhith)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

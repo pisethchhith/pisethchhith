@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ibb.co/GQ2XLFgv"><img src="https://i.ibb.co/WvyQwsSW/github-banner2jpg.jpg" alt="github-banner2jpg" border="0"></a>
+  <a href="https://ibb.co/GQ2XLFgv"><img src="https://i.ibb.co/GQ2XLFgv/github-banner2jpg.jpg" alt="github-banner2jpg" border="0"></a>>
 </p>
 
 <p align="center">

@@ -1,7 +1,3 @@
-p align="center">
-  <img src="YOUR_AVATAR_LINK" width="150" />
-</p>
-
 <h1 align="center">🔥 Your Name! 🌌✨</h1>
 <h3 align="center">Coding ★ Trading ★ Automation</h3>
 

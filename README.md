@@ -6,8 +6,10 @@
 </p>
 
 <h3 align="center">📘 About me <h3>
-  <p align="left"> Hello! I'm Piseth (call me Eric, if you like to), a Software Development student. I love learning new technologies, solving problems, and building cool projects. 
-Currently exploring Python, C, C++, AI, Java, HTML\CSS\Javascript, Frameworks</p>
+  <p align="left"> Hello! I'm Piseth (call me Eric, if you like to), a Software Development student. I love learning new technologies, solving problems, and building cool projects.</p>
+                                                                        
+
+ * *Studying in:* *American University of Phnom Penh* 
 
 
 ## 🌐 Socials:
@@ -24,11 +26,9 @@ Currently exploring Python, C, C++, AI, Java, HTML\CSS\Javascript, Frameworks</p
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=pisethchhith&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
+
+
 pisethchhith/pisethchhith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

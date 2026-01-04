@@ -2,7 +2,6 @@
   <a href="https://ibb.co/GQ2XLFgv"><img src="https://i.ibb.co/WvyQwsSW/github-banner2jpg.jpg" alt="github-banner2jpg" border="0"></a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pisethchhith&color=blueviolet" />
   <img src="https://img.shields.io/badge/Role-Beginner-blue" />
 </p>
 

@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Beginner-blue" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" />
 </p>
 
 <h3 align="center">📘 About me <h3>

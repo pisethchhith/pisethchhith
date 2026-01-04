@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Your Name! 🌌✨</h1>
+<h1 align="center">🔥 Seth aka. Eric 🌌✨</h1>
 <h3 align="center">Coding ★ Trading ★ Automation</h3>
 
 <p align="center">

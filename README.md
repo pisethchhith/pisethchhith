@@ -2,8 +2,8 @@
   <a href="https://ibb.co/GQ2XLFgv"><img src="https://i.ibb.co/WvyQwsSW/github-banner2jpg.jpg" alt="github-banner2jpg" border="0"></a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Beginner-blue" />
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" />
+  <img src="https://img.shields.io/badge/Role-Beginner-003859" />
+  <img src="https://komarev.com/ghpvc/?username=pisethchhith&color=3562ad&abbreviated=true" />
 </p>
 
 <h3 align="center">📘 About me <h3>

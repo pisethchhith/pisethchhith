@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://ibb.co/GQ2XLFgv" alt="Welcome Banner"/>
+  <img src="https://ibb.co/GQ2XLFgv" width="100%">
 </p>
 
 <p align="center">

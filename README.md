@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Beginner-003859" />
-  <img src="https://komarev.com/ghpvc/?username=pisethchhith&color=3562ad&abbreviated=true" />
 </p>
 
 <h3 align="center">📘 About me <h3>

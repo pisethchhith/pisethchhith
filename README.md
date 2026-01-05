@@ -24,9 +24,6 @@
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 
 
-# 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=pisethchhith)](https://github.com/pisethchhith/github-readme-stats)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 

@@ -6,10 +6,11 @@
 </p>
 
 <h3 align="center">📘 About me <h3>
-  <p align="center"> Hello! I'm Piseth (call me Eric, if you like to), a Software Development student. I love learning new technologies, solving problems, and building cool projects.</p>
+  <p align="center"> Hello! I'm Piseth (call me Eric, if you like to), I love learning new technologies, solving problems, and building cool projects.</p>
                                                                         
 
- * *Studying in:* *American University of Phnom Penh* 
+* *🎓 Currently Studying in: `Bachelor's Degree in software development`*
+* *🏫 University: `American University of Phnom Penh`*
 
 
 ## 🌐 Socials:

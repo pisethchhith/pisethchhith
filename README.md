@@ -23,7 +23,3 @@
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-

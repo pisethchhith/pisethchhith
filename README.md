@@ -10,7 +10,7 @@
                                                                         
 
 * *🎓 Currently Studying in: `Bachelor's Degree in software development`*
-* *🏫 University: `American University of Phnom Penh`*
+* *🏫 at University: `American University of Phnom Penh`*
 
 
 ## 🌐 Socials:

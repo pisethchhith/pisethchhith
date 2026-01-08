@@ -1,5 +1,4 @@
-<p align="center">
-  <a href="https://ibb.co/GQ2XLFgv"><img src="https://i.ibb.co/WvyQwsSW/github-banner2jpg.jpg" alt="github-banner2jpg" border="0"></a>
+![github_banner2jpg](https://github.com/user-attachments/assets/c2880e34-a236-4efc-bc26-5ca221a233d4)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Beginner-003859" />

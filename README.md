@@ -6,7 +6,7 @@
 
 <h3 align="center">📘 About me <h3>
   <p align="center"> Hello! I'm Piseth (call me Eric, if you like to), I love learning new technologies, solving problems, and building cool projects.</p>
-  <p align="center"> Currently, I'm studying on Full Stack Development on The Odin Project.</p>
+  <p align="center"> Currently, I'm working on Full Stack Web Development on The Odin Project.</p>
                                                                         
 
 * *🎓 Currently Studying in: `Bachelor's Degree in software development`*

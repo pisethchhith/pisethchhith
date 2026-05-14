@@ -21,10 +21,10 @@
 ## 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 
+## 🛠️ Tools
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 [![Ubuntu](https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 
-## 📖 Course 
+## 📖 Courses
 [![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?style=for-the-badge&logo=theodinproject&logoColor=fff)](#)

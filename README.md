@@ -14,7 +14,7 @@
   <li>✨ Fun Fact: Flexbox and Grid are your best friend of centering the div.</li>
 </ul>
 
-## 🎓 Education:
+## 🎓 Education
 * I'm currently Studying in `Bachelor of Science in software development` at `American University of Phnom Penh`.
 
 ## 🌐 Find me elsewhere

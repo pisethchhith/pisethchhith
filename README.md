@@ -14,8 +14,8 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ericcode.dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ericcode.dev)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ericcode.dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imseth.md/)
 
 
 ## 💻 Languages
@@ -29,5 +29,3 @@
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 [![Ubuntu](https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 
-## 📖 Courses
-[![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?style=for-the-badge&logo=theodinproject&logoColor=fff)](#)

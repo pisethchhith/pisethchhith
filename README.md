@@ -3,14 +3,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Beginner-003859" />
 </p>
-
-<h3 align="center">📘 About me <h3>
-  <p align="center"> Hello! I'm Piseth (call me Seth, if you like to), I love learning new technologies, solving problems, and building cool projects.</p>
-  <p align="center"> My biggest milestone is to be web developer in specialize of Full Stack Development</p>
+<ul>
+  <li>👋 Hello everyone! thank you for standing by my Github. I'm Piseth (aka.Seth), a Undergad Software Development and self-taught web developer as front-end</li>
+  <li>🎯 Currently, I'm pursuing to be full-stack web development.</li>
+</ul>
                                                                         
 ## 🎓 Education:
-* *🎓 Currently Studying in: `Bachelor's Degree in software development`*
-* *🏫 at University: `American University of Phnom Penh`*
+* 🎓 Currently Studying in: `Bachelor's Degree in software development`
+* 🏫 at University: `American University of Phnom Penh`
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ericcode.dev/)

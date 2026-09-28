@@ -15,7 +15,7 @@
 </ul>
 
 ## 🎓 Education:
-* 🎓 I'm currently Studying in `Bachelor of Science in software development` at `American University of Phnom Penh`.
+* I'm currently Studying in `Bachelor of Science in software development` at `American University of Phnom Penh`.
 
 ## 🌐 Find me elsewhere
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/imseth.md/)

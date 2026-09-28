@@ -24,6 +24,6 @@
 ## 🛠️ Tools that I currently use
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
-[![Ubuntu](https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+[![Fedora](https://custom-icon-badges.demolab.com/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](#)
 
 

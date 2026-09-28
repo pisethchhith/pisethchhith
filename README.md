@@ -6,26 +6,24 @@
 
 <h3 align="center">📘 About me <h3>
   <p align="center"> Hello! I'm Piseth (call me Seth, if you like to), I love learning new technologies, solving problems, and building cool projects.</p>
-  <p align="center"> Currently, I'm working on Full Stack Web Development on The Odin Project.</p>
+  <p align="center"> My biggest milestone is to be web developer in specialize of Full Stack Development</p>
                                                                         
-
+## 🎓 Education:
 * *🎓 Currently Studying in: `Bachelor's Degree in software development`*
 * *🏫 at University: `American University of Phnom Penh`*
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ericcode.dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imseth.md/)
 
-
-## 💻 Languages
+## 💻 Languages that I learned
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff)
 
-
-## 🛠️ Tools
+## 🛠️ Tools that I currently use
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 [![Ubuntu](https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+
 

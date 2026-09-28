@@ -19,7 +19,7 @@
 ## 🌐 Find me elsewhere
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/imseth.md/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imseth.md/)
-![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-%233F54A3.svg?style=for-the-badge&logo=frontendmentor&logoColor=white)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-%233F54A3.svg?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/pisethchhith)
 
 ## 💻 Languages that I learned
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

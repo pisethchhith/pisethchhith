@@ -3,16 +3,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Beginner-003859" />
 </p>
-<ul>
-  <li>👋 Hello everyone! thank you for standing by my Github. I'm Piseth (aka.Seth), a Undergad Software Development and self-taught web developer as front-end</li>
-  <li>🎯 Currently, I'm pursuing to be full-stack web development.</li>
-</ul>
-                                                                        
-## 🎓 Education:
-* 🎓 Currently Studying in: `Bachelor's Degree in software development`
-* 🏫 at University: `American University of Phnom Penh`
 
-## 🌐 Socials:
+## 🙋 About Me
+<ul>
+  <li>👋 Hello everyone! thank you for stopping by my Github. I'm Piseth (aka.Seth), an Undergad Software Development and self-taught web developer as front-end from 🇰🇭Cambodia</li>
+  <li>👨‍💻 Currently, I'm studying about how to center the div properly, and challenging to build some cool project (as a Front-end Development) because I love to solve problem (*winking face).</li>
+  <li>🎯 My biggest milestone as a web developer, is to become a full-stack development </li>
+  <li>📝 I love to learn and explore new things, especially in tech stuff.</li>
+  <li>🎮 I also enjoy playing single-story video games as my hobby.</li>
+</ul>
+
+## 🎓 Education:
+* 🎓 I'm currently Studying in: `Bachelor's Degree in software development` at University: `American University of Phnom Penh` 
+
+## 🌐 Find me elsewhere:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/imseth.md/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imseth.md/)
 

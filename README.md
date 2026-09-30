@@ -6,7 +6,7 @@
 
 ## 🙋 About Me
 <ul>
-  <li>👋 Hello everyone! thank you for stopping by my Github. I'm Piseth (aka.Seth), an Undergad Software Development and self-taught web developer as front-end.</li>
+  <li>👋 Hello everyone! thank you for stopping by my Github. I'm Piseth (aka.Seth), an Undergad Software Development and self-taught front-end web developer.</li>
   <li>👨‍💻 Currently, I'm studying on javascript, and challenging to build some cool project (as a Front-end Development) because I love to solve problem (*winking face).</li>
   <li>🎯 My biggest milestone as a web developer is to become a full-stack development.</li>
   <li>📝 I love to learn and explore new things, especially in tech stuff.</li>

@@ -1,21 +1,17 @@
 ![github_banner2jpg](https://github.com/user-attachments/assets/c2880e34-a236-4efc-bc26-5ca221a233d4)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Beginner-003859" />
-</p>
-
 ## 🙋 About Me
 <ul>
   <li>👋 Hello everyone! thank you for stopping by my Github. I'm Piseth (aka.Seth), an Undergad Software Development and self-taught front-end web developer.</li>
   <li>👨‍💻 Currently, I'm studying on javascript, and challenging to build some cool project (as a Front-end Development) because I love to solve problem (*winking face).</li>
-  <li>🎯 My biggest milestone as a web developer is to become a full-stack development.</li>
+  <li>🎯 My biggest milestone as a web developer is to become a full-stack developer.</li>
   <li>📝 I love to learn and explore new things, especially in tech stuff.</li>
   <li>🎮 I also enjoy playing single-story video games as my hobby.</li>
   <li>✨ Fun Fact: Flexbox and Grid are your best friend of centering the div.</li>
 </ul>
 
 ## 🎓 Education
-* I'm currently Studying in `Bachelor of Science in software development` at `American University of Phnom Penh`.
+* I'm currently studying in `Bachelor of Science in Software Development` at `American University of Phnom Penh`.
 
 ## 🌐 Find me elsewhere
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/imseth.md/)
@@ -24,13 +20,12 @@
 
 ## 💻 Languages & Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff)
 
-## 🚀 Currently Learning:
+## 🚀 Currently Learning
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 
 ## 🛠️ Tools & Operating System
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
